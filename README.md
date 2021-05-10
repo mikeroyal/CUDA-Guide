@@ -8,22 +8,23 @@
 
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
- <p align="center">
+ 
+ # Table of Contents
+ 
+ 1. [CUDA Learning Resources](https://github.com/mikeroyal/CUDA-Guide#cuda-learing-resources)
+ 
+ 2. [CUDA Tools](https://github.com/mikeroyal/CUDA-Guide#cuda-tools)
+
+ 3. [C/C++ Development](https://github.com/mikeroyal/CUDA-Guide#cc-development)
+ 
+ 4. [Python Development](https://github.com/mikeroyal/CUDA-Guide#python-development)
+
+<p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/117718735-55a23480-b191-11eb-874d-e690d09cd490.png">
   <br />
 </p>
 
 **CUDA Toolkit. Source: [NVIDIA Developer CUDA](https://developer.nvidia.com/cuda-zone)**
- 
- # Table of Contents
- 
- 1.[CUDA Learning Resources](https://github.com/mikeroyal/CUDA-Guide#cuda-learing-resources)
- 
- 2.[CUDA Tools](https://github.com/mikeroyal/CUDA-Guide#cuda-tools)
-
- 3.[C/C++ Development](https://github.com/mikeroyal/CUDA-Guide#cc-development)
- 
- 4.[Python Development](https://github.com/mikeroyal/CUDA-Guide#python-development)
 
 ## CUDA Learning Resources
 
@@ -367,3 +368,12 @@
 
 [Scikit-Learn](https://scikit-learn.org/stable/index.html) is a simple and efficient tool for data mining and data analysis. It is built on NumPy,SciPy, and mathplotlib.
 
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/CUDA-Guide/pulls).
+
+
+## License
+[Back to the Top](https://github.com/mikeroyal/CUDA-Guide#table-of-contents)
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
