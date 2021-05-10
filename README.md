@@ -11,7 +11,7 @@
  
  # Table of Contents
  
- 1. [CUDA Learning Resources](https://github.com/mikeroyal/CUDA-Guide#cuda-learing-resources)
+ 1. [CUDA Learning Resources](https://github.com/mikeroyal/CUDA-Guide#cuda-learning-resources)
  
  2. [CUDA Tools](https://github.com/mikeroyal/CUDA-Guide#cuda-tools)
 
